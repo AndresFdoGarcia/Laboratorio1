@@ -1,0 +1,65 @@
+# Carpeta bin y obj generada por el compilador
+fifo/bin/
+fifo/obj/
+
+roundRobin/bin/
+roundRobin/obj/
+
+SJF/bin/
+SJF/obj/
+
+# Carpeta de dependencias NuGet
+packages/
+
+# Carpeta de dependencias
+Dependencies/
+
+# Carpeta generada por Visual Studio
+.vscode/
+
+# Carpeta generada por Rider
+.idea/
+
+# Carpeta de archivos temporales de Rider
+.idea_caches/
+
+# Archivos de usuario de Rider
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+
+# Carpeta generada por Visual Studio Code
+.vscode/
+
+# Archivos de configuración de Rider
+*.sln.iml
+*.iml
+.idea/misc.xml
+.idea/modules.xml
+
+# Carpeta generada por Visual Studio
+.vs/
+
+# Archivos de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2017/2019 archivos de respaldo
+$RECYCLE.BIN/
+
+# Carpeta de respaldo
+$Recycle.Bin/
+
+# Archivos de registro
+*.log
+
+# Archivos de depuración
+*.vspscc
+
+# Archivos temporales
+*.swp
+*.*~
